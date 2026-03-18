@@ -1,3 +1,5 @@
+> **Note:** This is a reference fork. The original upstream repository is the actively maintained version. This fork is kept for personal reference and is not actively developed.
+
 # C [![Build Status](https://travis-ci.org/exercism/c.svg?branch=master)](https://travis-ci.org/exercism/c)
 
 Exercism problems in C
